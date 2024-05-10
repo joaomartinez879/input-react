@@ -1,7 +1,7 @@
 {
-  "name": "input-react",
+  "name": "input-fns",
   "description": "Encode a URL to a percent-encoded form, excluding already-encoded sequences",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "contributors": [
     "Douglas Christopher Wilson <doug@somethingdoug.com>"
   ],
